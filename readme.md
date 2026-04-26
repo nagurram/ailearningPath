@@ -1,18 +1,43 @@
-With 20 years of full-stack engineering, you're actually in an excellent position for this transition — you already understand system design, APIs, async patterns, and production concerns that many pure ML practitioners lack. Here's the full picture:
 
-**Your biggest shortcut:** Microsoft's Semantic Kernel is a first-class C# SDK for building AI agents and LLM applications. You can start building real AI apps before you even learn Python deeply. Azure OpenAI also has excellent .NET SDKs. This means you can be productive from month one while learning the broader landscape in parallel.
-
-**How to sequence it practically:**
-
-Start with Python, but don't over-invest early. Target "fluent enough to read and write ML code" — your C# background means you'll pick up the language mechanics in 2–3 weeks. The real learning is the data ecosystem (NumPy, Pandas, Jupyter).
-
-Then go straight to LLMs and generative AI — this is where your software engineering instincts shine. Prompt engineering, RAG architecture, and agent systems are fundamentally software problems. You'll out-pace pure data scientists here because you know how to build reliable, maintainable systems around these models.
-
-Don't skip MLOps. This is where senior .NET engineers consistently beat data scientists in AI roles — you understand CI/CD, Docker, monitoring, and enterprise deployment patterns already. Learn the ML-specific tooling (MLflow, experiment tracking) and you'll be highly valuable.
-
-**Concrete first steps this week:**
-1. Do the fast.ai "Practical Deep Learning" course — it's code-first and Python-based
-2. Build something with the Anthropic or OpenAI API in C# using Semantic Kernel
-3. Work through "Hands-On ML with Scikit-Learn & Keras" by Aurélien Géron
-
-Tap any phase or item in the diagram to dive deeper into any topic. What area would you like to explore first?
+PHASE 2
+PHASE 3
+PHASE 4
+PHASE 5
+Phase 1 — Python & data fluency · 1–2 months
+Python syntax, NumPy, Pandas, Matplotlib · leverage your C# OOP skills
+Python ↔ C# mapping — syntax, OOP, async
+NumPy, Pandas, Jupyter notebooks
+Phase 2 — ML fundamentals · 2–3 months
+Supervised/unsupervised learning, model eval, scikit-learn, feature engineering
+Core algorithms — regression, classification, clustering
+Model evaluation, bias/variance, cross-validation
+Neural networks intro — PyTorch or TensorFlow basics
+Phase 3 — LLMs & generative AI · 2–3 months
+Transformers, prompt engineering, RAG, embeddings, fine-tuning, agents
+Transformer architecture, attention, tokenisation
+RAG pipelines, embeddings, vector DBs (Pinecone, Weaviate)
+OpenAI / Anthropic APIs, LangChain, Semantic Kernel
+Agents, tool use, function calling, multi-agent patterns
+Your .NET advantage
+Semantic Kernel is C#-first
+Azure OpenAI integrates with .NET
+API design & async skills transfer
+Enterprise patterns you already know
+Phase 4 — MLOps & production AI · 2–3 months
+Model deployment, monitoring, CI/CD for ML, cloud AI platforms
+Azure ML, Azure OpenAI, AKS model serving
+MLflow, experiment tracking, model registry
+CI/CD for ML, GitHub Actions, Docker for models
+LLM observability — LangSmith, Arize, Weights & Biases
+Phase 5 — Specialise & ship · ongoing
+Pick a lane, build portfolio projects, contribute to open source, certify
+LLM app
+engineering
+ML
+engineering
+AI solutions
+architect
+AI safety &
+alignment
+Certs: Azure AI Engineer (AI-102) · Google ML Engineer · AWS ML Specialty · DeepLearning.AI
+Estimated total: 9–14 months to job-ready · Tap any item to go deeper
